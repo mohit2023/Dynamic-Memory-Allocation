@@ -1,0 +1,15 @@
+1
+1000000000
+12
+Allocate 100000000
+Allocate 800000000
+Allocate 300000000
+Free 0
+Free 100000000
+Free 0
+Allocate 20
+Allocate 50
+Free -2
+Allocate -2
+Free -2
+Allocate 0
